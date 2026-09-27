@@ -37,6 +37,10 @@ technology professional.
 
 [![GitHub](https://img.shields.io/badge/GitHub-munahappy178--crypto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/munahappy178-crypto)
 
+[![X](https://img.shields.io/badge/X-@enghothan7-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/enghothan7)
+
+
+
 ---
 
 ## 💻 Tech Stack
