@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Hothan Dahabo
+# 👋 Hello, I'm Eng Hothan Dahabo
 
 ### 💻 Full-Stack Software Developer | 🤖 AI Enthusiast | 🎓 Master's Student in Artificial Intelligence
 
